@@ -16,6 +16,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
+            <!--suppress UnresolvedMavenProperty -->
             <version>${spring.version}</version>
         </dependency>
 
