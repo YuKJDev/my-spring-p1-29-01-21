@@ -1,0 +1,27 @@
+Index: lesson-01-servlet-api/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson-01-servlet-api/pom.xml b/lesson-01-servlet-api/pom.xml
+new file mode 100644
+--- /dev/null	(date 1613682303050)
++++ b/lesson-01-servlet-api/pom.xml	(date 1613682303050)
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project xmlns="http://maven.apache.org/POM/4.0.0"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++
++    <groupId>ru.geekbrains</groupId>
++    <artifactId>lesson-01-servlet-api</artifactId>
++    <version>1.0-SNAPSHOT</version>
++
++    <properties>
++        <maven.compiler.source>11</maven.compiler.source>
++        <maven.compiler.target>11</maven.compiler.target>
++    </properties>
++    
++</project>
+\ No newline at end of file
