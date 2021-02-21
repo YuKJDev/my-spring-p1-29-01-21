@@ -10,5 +10,9 @@
         <module name="lesson-02-spring-basics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lesson-01-servlet-api" target="11" />
+      <module name="lesson-02-spring-basics" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
