@@ -9,17 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cb1343b-b090-4cbc-aa39-72403e96962b" name="Default Changelist" comment="Lesson03">
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/java/ru/geekbrains/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/java/ru/geekbrains/WebInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/java/ru/geekbrains/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/java/ru/geekbrains/persist/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/java/ru/geekbrains/persist/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/webapp/WEB-INF/views/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/src/main/webapp/WEB-INF/views/user_form.html" afterDir="false" />
+    <list default="true" id="3cb1343b-b090-4cbc-aa39-72403e96962b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson-03-spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-03-spring-mvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +117,7 @@
       <recent name="ru.geekbrains" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.lesson-03-with-tomcat">
+  <component name="RunManager" selected="Maven.lesson-01-servlet-api [clean,install...]">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -625,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613922374047</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lesson03">
+      <created>1613924748754</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613924748754</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
