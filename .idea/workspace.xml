@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ff0d10-00b6-49d8-b240-3fee183fa2b8" name="Default Changelist" comment="" />
+    <list default="true" id="47ff0d10-00b6-49d8-b240-3fee183fa2b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson-01-servlet-api/lesson-01-servlet-api.iml" beforeDir="false" />
+    </list>
     <list id="54948ca9-145a-49e4-b486-2835745d3527" name="Revert &quot;Revert &quot;Merge remote-tracking branch 'origin/lesson1'&quot;&quot;" comment="Revert &quot;Revert &quot;Merge remote-tracking branch 'origin/lesson1'&quot;&quot;&#10;&#10;This reverts commit a41fd18c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson-04-spring-boot" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
